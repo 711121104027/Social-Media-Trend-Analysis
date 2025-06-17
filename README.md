@@ -32,4 +32,5 @@ The dataset is structured in multiple relational tables stored in PostgreSQL (or
 
 ---
 
-![Manager Insights Dashboard](.)
+![Social_Media_analysis](./image/dashboard01.png)
+![](./image/dashboard02.png)
